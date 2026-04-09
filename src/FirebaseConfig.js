@@ -5,7 +5,7 @@ import AsyncStorage from "@react-native-async-storage/async-storage";
 import { getAnalytics, isSupported } from "firebase/analytics";
 
 const firebaseConfig = {
-  apiKey: "AIzaSyDjzupgWk6T80scK02BmiiBuS004qo0_Co",
+  apiKey: "",
   authDomain: "smartwardobe-e8f90.firebaseapp.com",
   projectId: "smartwardobe-e8f90",
   storageBucket: "smartwardobe-e8f90.appspot.com",
