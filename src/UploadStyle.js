@@ -15,8 +15,8 @@ const styles = StyleSheet.create({
   
   
   image: {
-    width: 500,       // Increase the width
-    height: 500,      // Increase the height
+    width: 500,      
+    height: 500,      
     marginBottom: 20,
     borderRadius: 10,
     alignSelf: 'center',
