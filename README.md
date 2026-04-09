@@ -1,9 +1,6 @@
 # DailyFit
 
-Mobile application for smart wardrobe management and digital outfit planning.
-
-## Overview
-DailyFit is a React Native solution designed to digitize personal wardrobes. It allows users to manage their clothing inventory, remove backgrounds from photos automatically, and plan outfits through a clean, intuitive interface.
+DailyFit is a mobile solution designed for personal wardrobe management. Built with **React Native (Expo)**, it allows users to inventory their clothing, plan outfits, schedule outfits and use AI-driven features for a seamless digital closet experience.
 
 ## Technical Stack
 - **Framework:** React Native (Expo)
