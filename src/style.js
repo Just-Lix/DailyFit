@@ -116,8 +116,8 @@ const styles = StyleSheet.create({
     shadowRadius: 10,
     shadowOffset: { width: 0, height: 5 },
     flexDirection: 'row',
-    justifyContent: 'space-around', // Change this if you want to center the items
-    alignItems: 'center', // Center items vertically
+    justifyContent: 'space-around', 
+    alignItems: 'center', 
   },
   actionOption: {
     backgroundColor: '#f2f2f2',
@@ -125,7 +125,7 @@ const styles = StyleSheet.create({
     padding: 10,
     alignItems: 'center',
     justifyContent: 'center',
-    width: '30%', // Adjust width to fit your layout
+    width: '30%', 
   },
   actionText: {
     marginTop: 10,
